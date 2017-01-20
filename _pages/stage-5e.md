@@ -2,7 +2,11 @@
 title: "Stage 5e"
 image: /assets/images/geo-science/ois-plot.png
 categories: 
-tags: climate geo-science
+  - general
+tags: 
+  - climate 
+  - geo-science
+  - quaternary-science
 permalink: /stage5e/
 
 ---
@@ -17,17 +21,17 @@ The plot below presents a key source of evidence for the global nature of climat
 
 <figure class="align-centre">
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/geo-science/ois-plot.png"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/geo-science/ois-plot.png" alt="Late Quaternary oxygen isotope curve."></a>
-  <figcaption>Marine oxygen isotope curve for the last 430 thousand years (kyr). Data from <a href="http://www.lorraine-lisiecki.com/stack.html" target="_blank">Lisiecki and Raymo (2005).</a> Author: Mark Ruddy, 2017.</figcaption>
+  <figcaption>Marine oxygen isotope curve for the last 430 thousand years (kyr). Data from <a href="http://www.lorraine-lisiecki.com/stack.html" target="_blank">Lisiecki and Raymo (2005).</a> Author: Mark Ruddy, 2017. Download this plot <a href="{{ site.url }}{{ site.baseurl }}"> </a> here</figcaption>
 </figure> 
 
-Stage 5e was warmer that one we're currently in - stage 1, AKA the Holocene[^temp-fn] - and an interesting biogeographic story exists for island Britain during MIS 5e. Conditions then were warm enough to allow present-day African animals like hippos, elephants and lions to colonise [London](http://london-nerc-dtp.org/2016/02/10/a-past-paradise-in-central-london/) and even reach as far north as [northern England](https://doi.pangaea.de/10.1594/PANGAEA.64382). There were no humans in Britain in MIS 5e (as far as we know), and no evidence for horses either. Globally, sea-levels were a few metres higher than historical records and ice-sheets were smaller <a href="#sources">(Brown, 2011)</a>.
+MIS stage 5e appears to have been a warmer interglacial that one we're currently in - stage 1, AKA the Holocene[^temp-fn] - and an interesting biogeographic story exists for island Britain during this period. Conditions then were warm enough to allow present-day African animals like hippos, elephants and lions to colonise [London](http://london-nerc-dtp.org/2016/02/10/a-past-paradise-in-central-london/) and even reach as far north as [northern England](https://doi.pangaea.de/10.1594/PANGAEA.64382). There were no humans in Britain in MIS 5e (as far as we know), and no evidence for horses either. Globally, sea-levels were a few metres higher than historical records and ice-sheets were smaller <a href="#sources">(Brown, 2011)</a>.
 
-There's discussion about how useful MIS 5e is as a model for climate in a post-anthropogenic global warming world <a href="#sources">(Brown, 2011)</a>. That all seems academic now. There's little chance we will limit warming to below 2&deg;C.
+In a post-anthropogenic global warming world MIS 5e could serve as a model for how the Earth system responds to higher temperatures <a href="#sources">(Brown, 2011)</a>, for instance [sea-level change](http://science.sciencemag.org/content/355/6322/276). There's little chance we will limit warming to [below 1.5&deg;C](https://www.carbonbrief.org/analysis-only-five-years-left-before-one-point-five-c-budget-is-blown), so learning from past climates can give us insights into how to prepare for what's to come in the future.
 
 
 [^stage3-fn]: What about stage 3? Well, that doesn't count as an interglacial as it was too cold but for historical reasons was labelled as one - *sigh*.
 
-[^temp-fn]: At least up until the onset of human interference with the climate system following the industrial revolution in the 18th century.
+[^temp-fn]: At least up until the onset of human interference with the climate system following the industrial revolution in the 18<sup>th</sup> century.
 
 
 

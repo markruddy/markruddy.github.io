@@ -10,6 +10,8 @@ main:
     url: /collection-archive/
   - title: "Resources"
     url: /resources/
+  - title: "Credits"
+    url: /credits/
   # - title: "Contact"
   #   url: /contact/
 # - title: "Sample Collections"
