@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "stage5e"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Mark Ruddy"
+description              : "Personal website."
+url                      : "http://localhost:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "markruddy/markruddy.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Mark Ruddy"
+  avatar           : "/assets/images/general/mark-nihola-avatar.jpg"
+  bio              : "Data, science and bicycles."
+  location         : "London, UK"
+  email            : "drmarkruddy@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,23 +89,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/markruddy"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://uk.linkedin.com/in/drmarkruddy"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/markruddy"
   vine             :
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
 
 # Reading Files
 include:
@@ -230,6 +229,14 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  data-science:
+    output: true
+    permalink: /:collection/:path/
+  sci-comms:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -244,3 +251,35 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _data-science
+  - scope:
+      path: ""
+      type: data-science
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _comms
+  - scope:
+      path: ""
+      type: comms
+    values:
+      layout: single
+      author_profile: true
+      share: true
+# _geo-science
+  - scope:
+      path: ""
+      type: geo-science
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
