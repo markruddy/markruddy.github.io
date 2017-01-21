@@ -1,5 +1,5 @@
 ---
-title: "Lisiecki and Raymoo (2005) Marine Oxygen Isotope curve - Late Quaternary"
+title: "Lisiecki and Raymo (2005) Marine Oxygen Isotope curve - Late Quaternary"
 image: 
 categories:
   - data-vis
