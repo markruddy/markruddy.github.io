@@ -18,7 +18,7 @@ tags:
 
 Geoarchaeology is a discipline that uses geo-science approaches within archaeological investigations to reconstruct past environments, landscapes, land use, and occupation types. This involves deposit mapping and modelling, sediment sampling and palaeoenvironmental interpretation.
 
-In developer-led archaeology, where heritage planning conditions are applied to contruction projects, geoarchaeology is often crucial in locating, predicting and interpreting buried heritage. This can substantially minimise heritage risk to a project.
+In developer-led archaeology, where heritage planning conditions are applied to construction projects, geoarchaeology is often a vital tool for locating, predicting and interpreting buried heritage. This can substantially minimise heritage risk to a project.
 
 I can provide help with all aspects of geoarchaeological work, from field and laboratory work to desk-based reporting.
 

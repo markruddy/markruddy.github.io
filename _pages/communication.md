@@ -31,4 +31,8 @@ I produce various types of content to help communicate ideas and information for
 I focus on science, environment, the energy industry, and technical subjects. Have a look at my [portfolio](/collection-archive/) and get in touch.
 
 
-![image-centre]({{ site.url }}/assets/images/comms/ldn-sale-intensity.jpg){: .align-centre}
+<figure class="align-centre">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/comms/ef-climate-imapcts.png" alt="">
+  <figcaption>Teaching climate climate impacts through e-learning. Content and instructional design produced for <a href="http://energy-future.com/" target="_blank">energy-future.com.</a> Copyright energy-future.com.</figcaption>
+</figure> 
+
