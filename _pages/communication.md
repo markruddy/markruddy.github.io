@@ -18,17 +18,17 @@ I produce various types of content to help communicate ideas and information for
 
 [^sci-comm-def]: Here I'm using the term *science communication* in a broad sense to summarise the sorts of activities I'm involved in. This might differ from the [generally understood definition](https://en.wikipedia.org/wiki/Science_communication) of science communication.
 
-
-* Feature or review articles on specific topics
-  * eg biofuels, unconventional oil and gas or climate change
-* Educational content
-  * For non-technical audiences, students, continued professional development
-* e-learning courses
-  * Content: text, voice-overs, graphics, animations, quizzes
-  * Storyboarding and design
+* Science journalism.
+  * Feature or review articles on specific topics.
+  * eg biofuels, unconventional oil and gas or climate change.
+* Educational content.
+  * For non-technical audiences, students, continued professional development.
+  * e-learning courses: text, voice-overs, graphics, animations, quizzes.
+* Instructional design.
+  * Storyboarding and design.
 * Graphics, data visualisations, maps.
 
-I focus on science, environment, the energy industry, and technical subjects. Have a look at my [portfolio](/collection-archive/) and get in touch.
+I focus on science, environment, the energy industry, and technical subjects. Have a look at my [portfolio](/collection-archive/) and get in touch if you'd like to discuss a collaboration.
 
 
 <figure class="align-centre">

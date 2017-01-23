@@ -9,3 +9,16 @@ categories:
 tags:
   - data-science
 ---
+
+<!--
+Refer to http://r4ds.had.co.nz/index.html
+
+-->
+
+Data science is a fashionable 
+
+* Transform
+* Visualise
+* Model
+* 
+
