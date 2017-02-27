@@ -4,11 +4,6 @@ title: "Resources"
 permalink: /resources/
 author_profile: true
 ---
-<!-- 
-{% for post in site.recipes %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
 
 {% include group-by-array collection=site.resources field="categories" %}
 

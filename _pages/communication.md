@@ -1,7 +1,7 @@
 ---
 title: "Science and technical communication"
 header:
-  image: /assets/images/banners/gas-hydrate-banner.jpg
+  image: /assets/images/banners/gas-hydrate-banner_1920-400.jpg
   <!-- teaser: /assets/images/banners/gas-hydrate-banner.jpg -->
 permalink: /hire-me/communication/
 categories: 
@@ -21,15 +21,14 @@ I produce various types of content to help communicate ideas and information for
 * Science journalism.
   * Feature or review articles on specific topics.
   * eg biofuels, unconventional oil and gas or climate change.
-* Educational content.
+* Educational content and instructional design.
   * For non-technical audiences, students, continued professional development.
   * e-learning courses: text, voice-overs, graphics, animations, quizzes.
-* Instructional design.
-  * Storyboarding and design.
 * Graphics, data visualisations, maps.
 
 I focus on science, environment, the energy industry, and technical subjects. Have a look at my [portfolio](/collection-archive/) and get in touch if you'd like to discuss a collaboration.
 
+View my <a href="{{ site.downloadurl }}/markruddy-cv.pdf">CV.</a>
 
 <figure class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/comms/ef-climate-imapcts.png" alt="">

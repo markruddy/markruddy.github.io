@@ -7,11 +7,13 @@ permalink: /about/
 
 ---
 
-Mark Ruddy here. I do data science and also write about science-related things. I live in London, with my wife and two children. I am often to be seen riding bicycles, because they're fun and solve most of the world's problems.
+Hello. Mark Ruddy here.
+
+I do data science and also write about science-related things. I live in London, with my wife and two children. I am often to be seen riding bicycles, because they're fun and solve most of the world's problems.
 
 In the past you might have found me drilling holes in the ground to find out about Earth history, or measuring the teeth of small mammals and thinking about evolution. 
 
-See things I've [worked on](/portfolio/) and maybe [hire me](/hire-me/).
+See things I've [worked on](/portfolio/), read my <a href="{{ site.downloadurl }}/markruddy-cv.pdf">CV</a>, and maybe [hire me](/hire-me/).
 
 Read a [blog](/blog/).
 

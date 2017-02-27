@@ -6,8 +6,8 @@ main:
     url: /blog/
   - title: "Hire me..."
     url: /hire-me/
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
   - title: "Resources"
     url: /resources/
   - title: "Credits"
