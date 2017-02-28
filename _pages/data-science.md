@@ -10,10 +10,6 @@ tags:
   - data-science
 ---
 
-<!--
-Refer to http://r4ds.had.co.nz/index.html
-
--->
 
 Data are everywhere. There's a strong desire and need to put data to good use. Data science is concerned with every aspect of this: 
 
@@ -23,6 +19,8 @@ Data are everywhere. There's a strong desire and need to put data to good use. D
 * Modelling appropriately
 * Delivering reproducible research
 
-I have been an [R](https://www.r-project.org/) user for over 10 years. 
+I use [R](https://www.r-project.org/), databases, GIS and other tools to tidy, explore, and visualise data; deliver reproducible work; and creatively communicate ideas and insights.
+
+My background in Earth and environmental sciences (PhD, MSc, PgDip) has been the springboard to over 10 years' data-oriented experience in public and private sector projects.
 
 View my <a href="/cv/">CV</a>.
