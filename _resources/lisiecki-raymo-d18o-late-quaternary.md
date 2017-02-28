@@ -13,7 +13,3 @@ tags:
   <figcaption>Marine oxygen isotope curve for the last 430 thousand years (kyr). Data from <a href="http://www.lorraine-lisiecki.com/stack.html" target="_blank">Lisiecki and Raymo (2005).</a> Author: Mark Ruddy, 2017. Download this plot <a href="{{ site.downloadurl }}/LisieckiRaymo2005_d18O.pdf">here.</a></figcaption>
 </figure> 
 
-
-
-
-https://raw.github.com/markruddy/stage5e_files/LisieckiRaymo2005_d18O.pdf
