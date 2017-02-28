@@ -14,4 +14,3 @@ tags:
 </figure> 
 
 
-https://cdn.rawgit.com/markruddy/stage5e_files/06f678dc/LisieckiRaymo2005_d18O.pdf
