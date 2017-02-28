@@ -28,7 +28,7 @@ I produce various types of content to help communicate ideas and information for
 
 I focus on science, environment, the energy industry, and technical subjects. Have a look at my [portfolio](/collection-archive/) and get in touch if you'd like to discuss a collaboration.
 
-View my <a href="{{ site.downloadurl }}/markruddy-cv.pdf">CV.</a>
+View my <a href="/cv/">CV</a>.
 
 <figure class="align-centre">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/comms/ef-climate-imapcts.png" alt="">

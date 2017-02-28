@@ -22,8 +22,6 @@ In developer-led archaeology, where heritage planning conditions are applied to 
 
 This involves deposit mapping and modelling, sediment sampling and palaeoenvironmental interpretation. I can provide help with all aspects of geoarchaeological work, from field and laboratory work to desk-based reporting.
 
-View my <a href="{{ site.downloadurl }}/markruddy-cv.pdf">CV.</a>
-
 ## Field and laboratory services
 
 ### Watching briefs
