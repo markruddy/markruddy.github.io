@@ -37,7 +37,7 @@ date: 2017-02-28
 
 <div style=" text-align: center; font-size: 80%">
 
-email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> | twitter: <a href="https://twitter.com/{{ site.twitter.username }}">@{{ site.author.twitter }}</a> | GitHub: <a href="http://github.com/{{ site.author.github }}">github.com{{ site.author.github }}</a> | web: <a href="http://www.stage5e.com/">stage5e.com</a>
+email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> | twitter: <a href="https://twitter.com/{{ site.twitter.username }}">@{{ site.author.twitter }}</a> | GitHub: <a href="http://github.com/{{ site.author.github }}">markruddy</a> | LinkedIn: <a href="https://www.linkedin.com/in/{{ author.linkedin }}">drmarkruddy</a> | web: <a href="http://www.stage5e.com/">stage5e.com</a>
 
 </div>
 
