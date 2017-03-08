@@ -46,7 +46,7 @@ email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> | tw
 
 ## Personal Statement
 
-I'm a Data Scientist using R, databases, GIS and other tools to tidy, explore, and visualise data; deliver reproducible work; and creatively communicate ideas and insights.
+I'm a Data-driven scientist using R, databases, GIS and other tools to tidy, explore, and visualise data; deliver reproducible work; and creatively communicate ideas and insights.
 
 My background in Earth and environmental sciences (PhD, MSc, PgDip) has been the springboard to over 10 years' data-oriented experience in public and private sector projects.
 
