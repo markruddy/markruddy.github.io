@@ -18,7 +18,8 @@ nationality: "British"
 date: 2017-02-28 
 --- 
 
-<a href="https://cdn.rawgit.com/markruddy/stage5e_files/06f678dc/cv-mark-ruddy-data-scientist.pdf" download>Download me</a>
+
+<a href="https://rawgit.com/markruddy/stage5e_files/master/cv-mark-ruddy-data-scientist.pdf" download>Download me</a>
 
 <div style=" text-align: center">
 <p><b>{{ page.title}}</b></p>
