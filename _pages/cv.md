@@ -96,8 +96,8 @@ My background in Earth and environmental sciences has been the springboard to ov
 ## Tools
 
 * R: base R, *tidyverse*, caret, knitr, R Markdown, Bookdown,...etc
-* Databases: MySQL, SQL, Postgres, PostGIS
-* Geographical Information Systems: QGIS, ESRI, GMT
+* Databases: SQL, MySQL, Postgres, PostGIS
+* Geographical Information Systems: QGIS, ESRI
 * Illustration: Inkscape, Gimp
 * Writing: markdown, LaTeX
 * Other experience: python, php, html, jekyll
