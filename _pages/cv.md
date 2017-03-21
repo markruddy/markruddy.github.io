@@ -78,7 +78,7 @@ My background in Earth and environmental sciences has been the springboard to ov
     * February 2006—September 2006
 
 * GIS Technician and Technical Lead
-    * Task Technical Lead in the world's first national-level digital mapping project.
+    * Task Technical Lead for a world-leading digital mapping project
     * [Black & Veatch Ltd](http://bv.com/), Redhill, Surrey, UK
     * June 2001—September 2004
 
