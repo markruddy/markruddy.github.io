@@ -19,7 +19,7 @@ date: 2017-02-28
 --- 
 
 
-<a href="https://cdn.rawgit.com/markruddy/stage5e_files/c5411243/cv-mark-ruddy-data-scientist_2017-03-20.pdf" download>Download me</a>
+<a href="https://cdn.rawgit.com/markruddy/stage5e_files/4255a4c1/cv-mark-ruddy-2017-04-19.pdf" download>Download me</a>
 
 <div style=" text-align: center">
 <p><b>{{ page.title}}</b></p>
@@ -49,36 +49,37 @@ email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> | tw
 <div style="float:left; font-size: 100%; margin-top: 20px; width: 90%" markdown="1">  
 
 
-I'm a data-driven scientist using R, databases, GIS and other tools to tidy, explore, analyse and visualise data; deliver reproducible work; and creatively communicate ideas and insights.
+## Personal Statement
 
-My background in Earth and environmental sciences has been the springboard to over 10 years' data-oriented experience in public and private sector projects.
+I'm a data-driven scientist using R, SQL, GIS and other tools to tidy, explore, analyse and visualise data; deliver reproducible work; and creatively communicate ideas and insights. I have academic and commercial experience using machine learning and a variety of statistical approaches, use GitHub, have additional experience with python, and am currently training with Hadoop and MapReduce.
+
+My background in Earth, energy, and environmental sciences (PgDip, MSc, PhD) has been the springboard to over 10 years' experience in quantitative public and private sector projects. I am now looking to transition my skillset into a business space working with big data problems.
 
 ## Employment History
 
 * Data and Environmental Consultant:
-    * Data science: [University of Westminster](https://www.westminster.ac.uk/) / [Transport for London ](https://tfl.gov.uk/) - Cycling attitudes project
-    * Geo-science support for archaeology:  [Museum of London Archaeology](http://www.mola.org.uk/); [L-P:Archaeology](http://www.lparchaeology.com/cms/) - Predicting archaeological potential from fieldwork, spatial modelling and domain knowledge
-    * Writing and Instructional Design of e-learning products: [energy-future.com](http://energy-future.com/)
+    * Data science: [University of Westminster](https://www.westminster.ac.uk/) / [Transport for London ](https://tfl.gov.uk/) - Wrangling, integrity checking and machine learning for a transport study.
+    * Geo-science support for archaeology:  [Museum of London Archaeology](http://www.mola.org.uk/); [L-P:Archaeology](http://www.lparchaeology.com/cms/) - Predicting archaeological potential through fieldwork and spatial modelling.
+    * Writing and Instructional Design of e-learning products: [energy-future.com](http://energy-future.com/) - Using research, technical and journalistic writing skills, and dataviz and design expertise to present tutorials on subjects such as petroleum exploration, the energy system, and climate change.
     * June 2011—September 2014 and May 2016—present
 
-
 * Science Advisor (East of England)
-    * Archaeological Science support to the heritage sector
+    * Archaeological Science support to the heritage sector.
     * [Historic England](http://www.historicengland.org.uk/advice/technical-advice/archaeological-science/science-advisors/), 24 Brooklands Avenue, Cambridge, CB2 8BU, UK 
     * July 2015—May 2016 (Maternity)
 
 * Database adminstrator
-    * Development and population of the [Ancient Human Occupation of Britain](http://www.ahobproject.org/) project database
+    * Development and population of the [Ancient Human Occupation of Britain](http://www.ahobproject.org/) project database.
     * [Natural History Museum](http://www.nhm.ac.uk/), London, UK
     * November 2010—April 2011
 
 * Bibliographic database management and GIS
-    * Building global models of sea-level change
+    * Building global models of sea-level change.
     * [Neftex Exploration Insights](http://www.neftex.com/), Abingdon, Oxon., UK
     * February 2006—September 2006
 
 * GIS Technician and Technical Lead
-    * Task Technical Lead for a world-leading digital mapping project
+    * Task Technical Lead for a world-leading digital mapping project.
     * [Black & Veatch Ltd](http://bv.com/), Redhill, Surrey, UK
     * June 2001—September 2004
 
@@ -86,8 +87,9 @@ My background in Earth and environmental sciences has been the springboard to ov
 
 * Statistical approaches
 * Spatial data analysis
-* Database: design, management, querying
 * Machine learning
+* Database: design, management, querying
+* Self-starter: Udacity training in Hadoop and MapReduce
 * Data visualisation and instructional design
 * Functional requirement studies
 * Project management
@@ -96,11 +98,11 @@ My background in Earth and environmental sciences has been the springboard to ov
 ## Tools
 
 * R: base R, *tidyverse*, caret, knitr, R Markdown, Bookdown,...etc
-* Databases: SQL, MySQL, Postgres, PostGIS
+* Databases: SQL, MySQL, PostgreSQL, PostGIS
+* Other languages: python, php, html, jekyll
 * Geographical Information Systems: QGIS, ESRI
-* Illustration: Inkscape, Gimp
 * Writing: markdown, LaTeX
-* Other experience: python, php, html, jekyll
+
 
 ## Academic History
 
@@ -126,6 +128,7 @@ My background in Earth and environmental sciences has been the springboard to ov
 ## References
 
 On request
+
 
 
 </div>
