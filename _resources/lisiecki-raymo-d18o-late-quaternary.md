@@ -58,6 +58,39 @@ lr04.cut <- lr04 %>% filter(Age <= 435)
 Plot the curve.
 
 ```r
+# Labels and adornment
+int.n <- c("Holocene", "Stage 3", "Stage 5", "Stage 7", "Stage 9", "Stage 11") # interglacial labels
+gla.n <- c("Stage 2", "Stage 4", "Stage 6", "Stage 8", "Stage 10") # glacial labels
+
+int.x <- c(5, 49, 93, 219, 322, 404) # interglacial x placement
+gla.x <- c(25, 67, 160, 280, 365) # glacial x placement
+
+rec.xmin <- c(0, 38, 75, 190, 310, 390) # interglacial rectangle limits
+rec.xmax <- c(11.7, 58, 115, 245, 335, 420) # interglacial rectangle limits
+
+t.size <- 4 # text size
+
+# Plot
+p <- ggplot(lr04.cut, aes(x = Age, y= d18o)) +
+  geom_line() + 
+  scale_y_reverse() + 
+  scale_x_reverse(lim=c(460,0)) +
+  theme_light() +
+  theme(axis.text=element_text(size=12), axis.title=element_text(size=16)) +
+  annotate("text", x=int.x, y=2.9, label=int.n, size=t.size, colour="#f1a340") +
+  annotate("text", x=gla.x, y=5.3, label=gla.n, size=t.size, colour="#4D3E87") +
+  annotate("text", x=125, y=2.9, label= "Stage 5e", size=t.size, colour="#AA3108") +
+  annotate("rect", xmin=rec.xmin, ymin=3.0, xmax=rec.xmax, ymax=5.2, alpha=0.1) +
+  annotate("rect", xmin=115, ymin=3.0, xmax=130, ymax=5.2, alpha=0.3, fill="#AA3108") +
+  xlab("Age (kyr)") +
+  ylab(expression(paste(delta^{18}, "O"))) + 
+  annotate("text", x=460, y=3.3, label= "Warmer", size=5, angle=90, colour="#f1a340") + 
+  annotate("text", x=460, y=4.7, label= "Colder", size=5, angle=90, colour="#4D3E87")
+```
+
+Add a footnote.
+
+```r
 # from http://statmodeling.com/best-way-to-add-a-footnote-to-a-plot-created-with-ggplot2.html
 
 footnote <- "Mark Ruddy, 2017"
